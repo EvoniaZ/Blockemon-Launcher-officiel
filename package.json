@@ -32,7 +32,7 @@
     "cross-env": "^7.0.3",
     "electron": "^22.3.24",
     "electron-builder": "^25.1.8",
-    "nodemon": "^2.0.22"
+    "nodemon": "^3.1.9"
   },
   "repository": {
     "type": "git",
